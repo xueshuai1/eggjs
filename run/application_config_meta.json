@@ -1,0 +1,294 @@
+{
+  "keys": "/Users/xueshuai/Documents/项目/eggjs/config/config.default.js",
+  "middleware": "/Users/xueshuai/Documents/项目/eggjs/config/config.default.js",
+  "session": {
+    "maxAge": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg-session@3.2.0@egg-session/config/config.default.js",
+    "key": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg-session@3.2.0@egg-session/config/config.default.js",
+    "httpOnly": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg-session@3.2.0@egg-session/config/config.default.js",
+    "encrypt": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg-session@3.2.0@egg-session/config/config.default.js"
+  },
+  "security": {
+    "domainWhiteList": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg-security@2.8.0@egg-security/config/config.default.js",
+    "protocolWhiteList": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg-security@2.8.0@egg-security/config/config.default.js",
+    "defaultMiddleware": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg-security@2.8.0@egg-security/config/config.default.js",
+    "csrf": {
+      "enable": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg-security@2.8.0@egg-security/config/config.default.js",
+      "type": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg-security@2.8.0@egg-security/config/config.default.js",
+      "ignoreJSON": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg-security@2.8.0@egg-security/config/config.default.js",
+      "useSession": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg-security@2.8.0@egg-security/config/config.default.js",
+      "cookieName": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg-security@2.8.0@egg-security/config/config.default.js",
+      "sessionName": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg-security@2.8.0@egg-security/config/config.default.js",
+      "headerName": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg-security@2.8.0@egg-security/config/config.default.js",
+      "bodyName": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg-security@2.8.0@egg-security/config/config.default.js",
+      "queryName": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg-security@2.8.0@egg-security/config/config.default.js",
+      "refererWhiteList": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg-security@2.8.0@egg-security/config/config.default.js"
+    },
+    "xframe": {
+      "enable": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg-security@2.8.0@egg-security/config/config.default.js",
+      "value": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg-security@2.8.0@egg-security/config/config.default.js"
+    },
+    "hsts": {
+      "enable": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg-security@2.8.0@egg-security/config/config.local.js",
+      "maxAge": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg-security@2.8.0@egg-security/config/config.default.js",
+      "includeSubdomains": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg-security@2.8.0@egg-security/config/config.default.js"
+    },
+    "dta": {
+      "enable": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg-security@2.8.0@egg-security/config/config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg-security@2.8.0@egg-security/config/config.default.js"
+    },
+    "noopen": {
+      "enable": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg-security@2.8.0@egg-security/config/config.default.js"
+    },
+    "nosniff": {
+      "enable": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg-security@2.8.0@egg-security/config/config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg-security@2.8.0@egg-security/config/config.default.js",
+      "value": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg-security@2.8.0@egg-security/config/config.default.js"
+    },
+    "xssProtection": {
+      "enable": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg-security@2.8.0@egg-security/config/config.default.js",
+      "value": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg-security@2.8.0@egg-security/config/config.default.js"
+    },
+    "csp": {
+      "enable": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg-security@2.8.0@egg-security/config/config.default.js",
+      "policy": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg-security@2.8.0@egg-security/config/config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg-security@2.8.0@egg-security/config/config.default.js",
+      "checkAddress": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg-security@2.8.0@egg-security/config/config.default.js"
+    }
+  },
+  "helper": {
+    "shtml": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg-security@2.8.0@egg-security/config/config.default.js"
+  },
+  "jsonp": {
+    "limit": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg-jsonp@2.0.0@egg-jsonp/config/config.default.js",
+    "callback": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg-jsonp@2.0.0@egg-jsonp/config/config.default.js",
+    "csrf": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg-jsonp@2.0.0@egg-jsonp/config/config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg-onerror@2.1.0@egg-onerror/config/config.default.js",
+    "appErrorFilter": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg-onerror@2.1.0@egg-onerror/config/config.default.js",
+    "templatePath": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg-onerror@2.1.0@egg-onerror/config/config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg-i18n@2.1.1@egg-i18n/config/config.default.js",
+    "dirs": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg-i18n@2.1.1@egg-i18n/config/config.default.js",
+    "queryField": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg-i18n@2.1.1@egg-i18n/config/config.default.js",
+    "cookieField": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg-i18n@2.1.1@egg-i18n/config/config.default.js",
+    "cookieDomain": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg-i18n@2.1.1@egg-i18n/config/config.default.js",
+    "cookieMaxAge": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg-i18n@2.1.1@egg-i18n/config/config.default.js"
+  },
+  "watcher": {
+    "type": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg-watcher@3.1.1@egg-watcher/config/config.local.js",
+    "eventSources": {
+      "default": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg-watcher@3.1.1@egg-watcher/config/config.default.js",
+      "development": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg-watcher@3.1.1@egg-watcher/config/config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg-schedule@3.6.6@egg-schedule/config/config.default.js",
+      "file": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg-schedule@3.6.6@egg-schedule/config/config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg-schedule@3.6.6@egg-schedule/config/config.default.js"
+  },
+  "multipart": {
+    "mode": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg-multipart@2.10.3@egg-multipart/config/config.default.js",
+    "autoFields": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg-multipart@2.10.3@egg-multipart/config/config.default.js",
+    "defaultCharset": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg-multipart@2.10.3@egg-multipart/config/config.default.js",
+    "fieldNameSize": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg-multipart@2.10.3@egg-multipart/config/config.default.js",
+    "fieldSize": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg-multipart@2.10.3@egg-multipart/config/config.default.js",
+    "fields": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg-multipart@2.10.3@egg-multipart/config/config.default.js",
+    "fileSize": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg-multipart@2.10.3@egg-multipart/config/config.default.js",
+    "files": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg-multipart@2.10.3@egg-multipart/config/config.default.js",
+    "fileExtensions": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg-multipart@2.10.3@egg-multipart/config/config.default.js",
+    "whitelist": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg-multipart@2.10.3@egg-multipart/config/config.default.js",
+    "tmpdir": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg-multipart@2.10.3@egg-multipart/config/config.default.js",
+    "cleanSchedule": {
+      "cron": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg-multipart@2.10.3@egg-multipart/config/config.default.js"
+    }
+  },
+  "development": {
+    "watchDirs": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg-development@2.7.0@egg-development/config/config.default.js",
+    "ignoreDirs": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg-development@2.7.0@egg-development/config/config.default.js",
+    "fastReady": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg-development@2.7.0@egg-development/config/config.default.js",
+    "reloadOnDebug": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg-development@2.7.0@egg-development/config/config.default.js",
+    "overrideDefault": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg-development@2.7.0@egg-development/config/config.default.js",
+    "overrideIgnore": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg-development@2.7.0@egg-development/config/config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg-logrotator@3.1.0@egg-logrotator/config/config.default.js",
+    "hourDelimiter": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg-logrotator@3.1.0@egg-logrotator/config/config.default.js",
+    "filesRotateBySize": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg-logrotator@3.1.0@egg-logrotator/config/config.default.js",
+    "maxFileSize": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg-logrotator@3.1.0@egg-logrotator/config/config.default.js",
+    "maxFiles": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg-logrotator@3.1.0@egg-logrotator/config/config.default.js",
+    "rotateDuration": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg-logrotator@3.1.0@egg-logrotator/config/config.default.js",
+    "maxDays": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg-logrotator@3.1.0@egg-logrotator/config/config.default.js"
+  },
+  "static": {
+    "prefix": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg-static@2.2.0@egg-static/config/config.default.js",
+    "dir": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg-static@2.2.0@egg-static/config/config.default.js",
+    "dynamic": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg-static@2.2.0@egg-static/config/config.default.js",
+    "preload": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg-static@2.2.0@egg-static/config/config.default.js",
+    "buffer": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg-static@2.2.0@egg-static/config/config.default.js",
+    "maxFiles": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg-static@2.2.0@egg-static/config/config.default.js"
+  },
+  "view": {
+    "root": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg-view@2.1.3@egg-view/config/config.default.js",
+    "cache": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg-view@2.1.3@egg-view/config/config.local.js",
+    "defaultExtension": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg-view@2.1.3@egg-view/config/config.default.js",
+    "defaultViewEngine": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg-view@2.1.3@egg-view/config/config.default.js",
+    "mapping": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg-view@2.1.3@egg-view/config/config.default.js"
+  },
+  "env": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg@2.29.1@egg/config/config.default.js",
+  "name": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg@2.29.1@egg/config/config.default.js",
+  "cookies": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg@2.29.1@egg/config/config.default.js",
+  "proxy": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg@2.29.1@egg/config/config.default.js",
+  "maxIpsCount": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg@2.29.1@egg/config/config.default.js",
+  "maxProxyCount": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg@2.29.1@egg/config/config.default.js",
+  "protocolHeaders": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg@2.29.1@egg/config/config.default.js",
+  "ipHeaders": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg@2.29.1@egg/config/config.default.js",
+  "hostHeaders": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg@2.29.1@egg/config/config.default.js",
+  "pkg": {
+    "name": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg@2.29.1@egg/config/config.default.js",
+    "version": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg@2.29.1@egg/config/config.default.js",
+    "description": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg@2.29.1@egg/config/config.default.js",
+    "private": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg@2.29.1@egg/config/config.default.js",
+    "egg": {
+      "declarations": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg@2.29.1@egg/config/config.default.js"
+    },
+    "dependencies": {
+      "egg": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg@2.29.1@egg/config/config.default.js",
+      "egg-scripts": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg@2.29.1@egg/config/config.default.js"
+    },
+    "devDependencies": {
+      "autod": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg@2.29.1@egg/config/config.default.js",
+      "autod-egg": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg@2.29.1@egg/config/config.default.js",
+      "egg-bin": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg@2.29.1@egg/config/config.default.js",
+      "egg-ci": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg@2.29.1@egg/config/config.default.js",
+      "egg-mock": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg@2.29.1@egg/config/config.default.js",
+      "eslint": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg@2.29.1@egg/config/config.default.js",
+      "eslint-config-egg": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg@2.29.1@egg/config/config.default.js"
+    },
+    "engines": {
+      "node": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg@2.29.1@egg/config/config.default.js"
+    },
+    "scripts": {
+      "start": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg@2.29.1@egg/config/config.default.js",
+      "stop": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg@2.29.1@egg/config/config.default.js",
+      "dev": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg@2.29.1@egg/config/config.default.js",
+      "debug": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg@2.29.1@egg/config/config.default.js",
+      "test": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg@2.29.1@egg/config/config.default.js",
+      "test-local": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg@2.29.1@egg/config/config.default.js",
+      "cov": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg@2.29.1@egg/config/config.default.js",
+      "lint": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg@2.29.1@egg/config/config.default.js",
+      "ci": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg@2.29.1@egg/config/config.default.js",
+      "autod": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg@2.29.1@egg/config/config.default.js"
+    },
+    "ci": {
+      "version": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg@2.29.1@egg/config/config.default.js"
+    },
+    "repository": {
+      "type": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg@2.29.1@egg/config/config.default.js",
+      "url": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg@2.29.1@egg/config/config.default.js"
+    },
+    "author": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg@2.29.1@egg/config/config.default.js",
+    "license": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg@2.29.1@egg/config/config.default.js"
+  },
+  "baseDir": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg@2.29.1@egg/config/config.default.js",
+  "HOME": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg@2.29.1@egg/config/config.default.js",
+  "rundir": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg@2.29.1@egg/config/config.default.js",
+  "dump": {
+    "ignore": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg@2.29.1@egg/config/config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg@2.29.1@egg/config/config.default.js",
+    "notFound": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg@2.29.1@egg/config/config.default.js",
+    "sitefile": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg@2.29.1@egg/config/config.default.js",
+    "middlewares": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg@2.29.1@egg/config/config.default.js",
+    "httpClient": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg@2.29.1@egg/config/config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg@2.29.1@egg/config/config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg@2.29.1@egg/config/config.default.js"
+  },
+  "bodyParser": {
+    "enable": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg@2.29.1@egg/config/config.default.js",
+    "encoding": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg@2.29.1@egg/config/config.default.js",
+    "formLimit": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg@2.29.1@egg/config/config.default.js",
+    "jsonLimit": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg@2.29.1@egg/config/config.default.js",
+    "textLimit": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg@2.29.1@egg/config/config.default.js",
+    "strict": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg@2.29.1@egg/config/config.default.js",
+    "queryString": {
+      "arrayLimit": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg@2.29.1@egg/config/config.default.js",
+      "depth": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg@2.29.1@egg/config/config.default.js",
+      "parameterLimit": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg@2.29.1@egg/config/config.default.js"
+    },
+    "onerror": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg@2.29.1@egg/config/config.default.js"
+  },
+  "logger": {
+    "dir": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg@2.29.1@egg/config/config.default.js",
+    "encoding": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg@2.29.1@egg/config/config.default.js",
+    "env": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg@2.29.1@egg/config/config.default.js",
+    "level": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg@2.29.1@egg/config/config.default.js",
+    "consoleLevel": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg@2.29.1@egg/config/config.default.js",
+    "disableConsoleAfterReady": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg@2.29.1@egg/config/config.default.js",
+    "outputJSON": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg@2.29.1@egg/config/config.default.js",
+    "buffer": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg@2.29.1@egg/config/config.default.js",
+    "appLogName": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg@2.29.1@egg/config/config.default.js",
+    "coreLogName": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg@2.29.1@egg/config/config.default.js",
+    "agentLogName": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg@2.29.1@egg/config/config.default.js",
+    "errorLogName": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg@2.29.1@egg/config/config.default.js",
+    "coreLogger": {
+      "consoleLevel": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg@2.29.1@egg/config/config.local.js"
+    },
+    "allowDebugAtProd": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg@2.29.1@egg/config/config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg@2.29.1@egg/config/config.default.js",
+    "dnsCacheLookupInterval": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg@2.29.1@egg/config/config.default.js",
+    "dnsCacheMaxLength": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg@2.29.1@egg/config/config.default.js",
+    "request": {
+      "timeout": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg@2.29.1@egg/config/config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg@2.29.1@egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg@2.29.1@egg/config/config.default.js",
+      "maxSockets": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg@2.29.1@egg/config/config.default.js",
+      "maxFreeSockets": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg@2.29.1@egg/config/config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg@2.29.1@egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg@2.29.1@egg/config/config.default.js",
+      "maxSockets": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg@2.29.1@egg/config/config.default.js",
+      "maxFreeSockets": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg@2.29.1@egg/config/config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg@2.29.1@egg/config/config.default.js",
+    "logging": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg@2.29.1@egg/config/config.default.js"
+  },
+  "coreMiddleware": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg@2.29.1@egg/config/config.default.js",
+  "workerStartTimeout": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg@2.29.1@egg/config/config.default.js",
+  "serverTimeout": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg@2.29.1@egg/config/config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg@2.29.1@egg/config/config.default.js",
+      "port": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg@2.29.1@egg/config/config.default.js",
+      "hostname": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg@2.29.1@egg/config/config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg@2.29.1@egg/config/config.default.js",
+    "responseTimeout": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg@2.29.1@egg/config/config.default.js"
+  },
+  "onClientError": "/Users/xueshuai/Documents/项目/eggjs/node_modules/_egg@2.29.1@egg/config/config.default.js"
+}

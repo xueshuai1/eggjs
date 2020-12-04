@@ -1,0 +1,11 @@
+2020-12-04 10:38:49,062 INFO 74974 [egg:logger] init all loggers with options: {"dir":"/Users/xueshuai/Documents/项目/eggjs/logs/egg-demo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-demo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2020-12-04 10:38:49,078 INFO 74974 [egg:core] dump config after load, 6ms
+2020-12-04 10:38:49,126 INFO 74974 [egg-watcher] Start watching: ["/Users/xueshuai/Documents/项目/eggjs/app","/Users/xueshuai/Documents/项目/eggjs/config","/Users/xueshuai/Documents/项目/eggjs/mocks","/Users/xueshuai/Documents/项目/eggjs/mocks_proxy","/Users/xueshuai/Documents/项目/eggjs/app.js"]
+2020-12-04 10:38:49,126 INFO 74974 [egg-watcher] Start watching: "/Users/xueshuai/Documents/项目/eggjs/app"
+2020-12-04 10:38:49,127 INFO 74974 [egg-watcher] Start watching: "/Users/xueshuai/Documents/项目/eggjs/config"
+2020-12-04 10:38:49,127 INFO 74974 [egg-watcher] Start watching: "/Users/xueshuai/Documents/项目/eggjs/mocks"
+2020-12-04 10:38:49,127 INFO 74974 [egg-watcher] Start watching: "/Users/xueshuai/Documents/项目/eggjs/mocks_proxy"
+2020-12-04 10:38:49,127 INFO 74974 [egg-watcher] Start watching: "/Users/xueshuai/Documents/项目/eggjs/app.js"
+2020-12-04 10:38:49,127 INFO 74974 [egg-watcher:agent] watcher start success
+2020-12-04 10:38:49,136 INFO 74974 [egg:core] dump config after ready, 4ms
+2020-12-04 10:38:50,251 INFO 74974 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"/Users/xueshuai/Documents/项目/eggjs/app/public","stat":{"dev":16777221,"mode":16877,"nlink":2,"uid":502,"gid":20,"rdev":0,"blksize":4096,"ino":18347380,"size":64,"blocks":0,"atimeMs":1607049530240.0444,"mtimeMs":1607049530240.0444,"ctimeMs":1607049530240.0444,"birthtimeMs":1607049530240.0444,"atime":"2020-12-04T02:38:50.240Z","mtime":"2020-12-04T02:38:50.240Z","ctime":"2020-12-04T02:38:50.240Z","birthtime":"2020-12-04T02:38:50.240Z"},"remove":false,"isDirectory":true,"isFile":false}

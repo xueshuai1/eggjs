@@ -1,0 +1,6 @@
+2020-12-04 10:38:50,290 INFO 74974 [Timer] /Users/xueshuai/Documents/项目/eggjs/node_modules/_egg-multipart@2.10.3@egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 64269715ms at 2020-12-05 04:30:00.005
+2020-12-04 10:38:50,290 INFO 74974 [Timer] /Users/xueshuai/Documents/项目/eggjs/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js next time will execute after 48069710ms at 2020-12-05 00:00:00.000
+2020-12-04 10:38:50,291 INFO 74974 [Timer] /Users/xueshuai/Documents/项目/eggjs/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 48070710ms at 2020-12-05 00:00:01.001
+2020-12-04 10:38:50,143 INFO 74985 [egg-schedule]: register schedule /Users/xueshuai/Documents/项目/eggjs/node_modules/_egg-multipart@2.10.3@egg-multipart/app/schedule/clean_tmpdir.js
+2020-12-04 10:38:50,143 INFO 74985 [egg-schedule]: register schedule /Users/xueshuai/Documents/项目/eggjs/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2020-12-04 10:38:50,143 INFO 74985 [egg-schedule]: register schedule /Users/xueshuai/Documents/项目/eggjs/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
